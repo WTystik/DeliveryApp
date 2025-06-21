@@ -5,7 +5,7 @@
 ---------------------------
 Откройте PowerShell и выполните:
 
-cd C:\Users\Roman\Desktop\DeliveryAppSolution\DeliveryApp\DeliveryApp
+cd C:\Users\(имя пользователя)\Desktop\DeliveryAppSolution\DeliveryApp\DeliveryApp
 
 dotnet run
 
@@ -16,7 +16,7 @@ dotnet run
 ---------------------------
 Откройте новую вкладку PowerShell и выполните:
 
-cd C:\Users\Roman\Desktop\DeliveryAppSolution\frontend
+cd C:\Users\(имя пользователя)\Desktop\DeliveryAppSolution\frontend
 
 npm install
 npm start
